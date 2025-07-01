@@ -1,5 +1,6 @@
 body{background-color: deepskyblue;
-};
+color: black};
 
-header{border: solid 2px red;};
+header{border-bottom:  solid 2px red;
+padding: 20px};
 
